@@ -77,7 +77,7 @@
                   Pantai bira
                 </a>
               </h3>
-              <p class="mt-1 text-sm text-gray-500">Pantai Bira di Sulawesi Selatan terkenal dengan pasir putih halus dan air laut jernih bergradasi biru kehijauan. Destinasi ini ideal untuk snorkeling dan menyelam, dengan terumbu karang alami dan kehidupan bawah laut yang beragam..</p>
+              <p class="mt-1 text-sm text-gray-500">pasang disini</p>
             </div>
           </div>
         </div>

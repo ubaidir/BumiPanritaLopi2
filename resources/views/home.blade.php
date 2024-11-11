@@ -78,7 +78,7 @@
                 </a>
               </h3>
               <!-- Tambahkan Content pada parapgrah -->
-              <p class="mt-1 text-sm text-gray-500">your content</p>
+              <p class="mt-1 text-sm text-gray-500">your</p>
             </div>
           </div>
         </div>

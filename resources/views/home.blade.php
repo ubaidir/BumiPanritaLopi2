@@ -77,7 +77,8 @@
                   Pantai bira
                 </a>
               </h3>
-              <p class="mt-1 text-sm text-gray-500">pasang disini</p>
+              <!-- Tambahkan Content pada parapgrah -->
+              <p class="mt-1 text-sm text-gray-500">your content</p>
             </div>
           </div>
         </div>
